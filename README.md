@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+We are here to share projects with you.
+Thank you to join us.
