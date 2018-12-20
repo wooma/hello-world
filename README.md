@@ -1,3 +1,3 @@
 # hello-world
-We are here to projects with.
+We are here to share projects with you.
 Thank you to join us.
